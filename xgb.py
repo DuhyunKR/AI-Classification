@@ -4,7 +4,7 @@
 # Google Colab
 # **import**
 """
-
+#import
 import time
 import numpy as np
 import pandas as pd
